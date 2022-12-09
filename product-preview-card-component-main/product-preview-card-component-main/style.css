@@ -82,6 +82,8 @@ h2 {
 .price {
     color: hsl(158, 36%, 37%);
     margin: 10px 0px;
+    font-size: 28px;
+    font-weight: bold;
 }
 
 .price1 {
@@ -89,6 +91,7 @@ h2 {
     margin-left: 16px;
     color: hsl(228, 12%, 48%);
     font-size: 11px;
+    text-decoration: line-through;
 }
 
 .button {
